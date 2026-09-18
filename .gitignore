@@ -1,0 +1,4 @@
+temp/
+clipped_buildings.gpkg
+__pycache__/
+*.pyc
